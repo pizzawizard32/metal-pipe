@@ -1,3 +1,6 @@
+# UPDATE
+ive lost the main c++ file and cant open it, so i cant update it anymore but im going to remake the program on another IDE with new features, stay tuned! :D
+
 # metal-pipe
 the best creation ive ever made in my life
 
